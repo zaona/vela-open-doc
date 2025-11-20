@@ -17,6 +17,12 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '文档',
+        items: [
+          { text: '设备参数', link: '/docs/device' }
+        ]
+      },
+      {
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },

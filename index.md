@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Vela Open Doc"
   text: "Community-Created Xiaomi Vela Document"
-  tagline: 开发者友好，性能高效的IoT跨端应用框架
+  tagline: Vela：开发者友好，性能高效的IoT跨端应用框架
   image:
     src: /logo.svg
     alt: Doc Logo
   actions:
     - theme: brand
       text: 快速开始
-      link: /markdown-examples
+      link: /docs/device
     - theme: alt
       text: 官方文档
       link: https://iot.mi.com/vela/quickapp/
